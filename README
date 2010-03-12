@@ -7,4 +7,9 @@ the same functionality, but it was an programming exercise in JavaScript
 objects and utilizing the ability for an object to partially inherit from 
 different objects.
 
+I hope to add more data structures to this package as time goes on. 
 
+Future additions may include:
+-Trees
+-Graphs
+-Sets
