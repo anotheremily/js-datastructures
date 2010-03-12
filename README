@@ -1,1 +1,10 @@
-JavaScript data structures.
+js-datastructures
+Zach Young <young.zach@gmail.com>
+
+This package creates objects for stacks, queues, and deques; three common 
+data structures. There is really no need for them as an Array will handle 
+the same functionality, but it was an programming exercise in JavaScript 
+objects and utilizing the ability for an object to partially inherit from 
+different objects.
+
+
